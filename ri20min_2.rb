@@ -1,5 +1,6 @@
 # 実行コマンド：ruby ri20min_2.rb
 
+# 計算式
 puts "足し算:3+2"
 puts 3+2
 
