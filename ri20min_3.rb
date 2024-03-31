@@ -1,5 +1,6 @@
 # 実行コマンド：ruby ri20min_3.rb
 
+# ビルトインモジュール
 puts "平方根:Math.sqrt(9)"
 puts Math.sqrt(9)
 
