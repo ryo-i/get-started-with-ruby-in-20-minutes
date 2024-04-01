@@ -10,7 +10,7 @@ puts 3-2
 puts "掛け算:3*2"
 puts 3*2
 
-puts "乗算:3**2"
+puts "べき乗:3**2"
 puts 3**2
 
 puts "割り算:3/2"
